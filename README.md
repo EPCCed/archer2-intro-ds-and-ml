@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br />
 
-# Introduction to Data Science & Machine Learning (Dacember 2023)
+# Introduction to Data Science & Machine Learning (December 2023)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
