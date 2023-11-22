@@ -23,7 +23,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
  * 09:30 Welcome & Introduction
  * 09:40 [Lecture: Introduction to Data Science](./section-1.01)
- * 10:20 Practical: Intro to Jupyter Notebooks & Pandas
+ * 10:20 [Practical: Intro to Jupyter Notebooks & Pandas](./section-1.02)
  * 11:00 Break
  * 11:15 Lecture: Introduction to Machine Learning
  * 11:45 Lecture: Linear Regression
