@@ -2,19 +2,34 @@
 
 <br /><br /><br /><br />
 
-# ARCHER2 course template (month YEAR)
+# Introduction to Data Science & Machine Learning (Dacember 2023)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Course description...
+This course will introduce Data Science and Machine Learning and discuss how they are related. After a short introduction to Data Science in more general terms, the course will focus more specifically on Machine Learning.
+
+We will introduce the ideas of Unsupervised and Supervised Learning, starting with some simple examples, building things up so that by the end of the course you should have some understanding of how Neural Networks work under the hood.
+
+The primary goal of the course is to show you the kind of things that can be done with machine learning and give an outline of how these things are implemented. In practice, as a user, you will almost certainly end up using libraries and frameworks which implement the details for you, and we’ll give you some examples of these libraries and frameworks.
+
+We won’t be able to make you machine learning experts in the space of two days, but hopefully after the end of the course, you’ll understand the important ideas, and have a base from which to explore those areas of Machine Learning that are relevant to your research domains. We also won’t get to the point where we can cover Machine Learning at scale on systems like ARCHER. That is for another day…
+
+The practical exercises on the course will use Python, and we’ll expect you to be comfortable with the fundamentals of programming in Python if you want to do the practical exercises. 
+
 
 ## Course timetable
 
 ### Day 1
 
- * 14:00 Welcome and overview
- * 14:10 [...]
- * 16:30 Close
+ * 09:30 Welcome & Introduction
+ * 09:40 Lecture: Introduction to Data Science
+ * 10:20 Practical: Intro to Jupyter Notebooks & Pandas
+ * 11:00 Break
+ * 11:15 Lecture: Introduction to Machine Learning
+ * 11:45 Lecture: Linear Regression
+ * 12:35 Lunch
+ * 13:30 Practical: Linear Regression
+ * 
 
 ### Day 2
 
