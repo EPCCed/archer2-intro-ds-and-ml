@@ -27,7 +27,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 10:20 [Practical: Intro to Jupyter Notebooks & Pandas](./section-1.02)
  * 11:00 Break
  * 11:15 [Lecture: Introduction to Machine Learning](./section-1.03)
- * 11:45 Lecture: Linear Regression
+ * 11:45 [Lecture: Linear Regression](./section-1.04)
  * 12:35 Lunch
  * 13:30 Practical: Linear Regression
  * 
