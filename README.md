@@ -18,6 +18,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 
 ## Course timetable
+<i>Times subject to change</i>
 
 ### Day 1
 
