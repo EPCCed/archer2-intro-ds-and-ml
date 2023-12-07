@@ -10,5 +10,5 @@ You should follow the instructions in the [Using Jupyterlab section of the Arche
 
 ## Step 2: Explore some basic data processing using Pandas
 
-Work through [Episode 3](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html) and [Episode 4](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset.html) from the Data Carpentry course, "[Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)"
+Work through [Episode 3](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html) and [Episode 4](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset.html) from the Data Carpentry course, "[Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)".
 
