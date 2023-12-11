@@ -3,4 +3,4 @@ This folder contains two different practicals, for us to use depending on (i) th
 1. The short version shows you how to run clustering with Scikit-Learn
 2. The longer version explores the algorithm in more depth
 
-
+(There's nothing in the longer version that's *required* for understanding things later in the course).
