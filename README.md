@@ -34,7 +34,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 15:00 [Practical: kNN Classification](./section-1.07) 
  * 15:15 Break
  * 15:30 [Lecture: KMeans Clustering](./section-1.08)
- * 16:20 [Practical: KMeans Clustering](./section-1.09) <!-- TODO: Check this practical before uploading --!>
+ * 16:20 [Practical: KMeans Clustering](./section-1.09) <!-- TODO: Check this practical before uploading -->
 
 ### Day 2
 
