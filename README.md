@@ -31,6 +31,9 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 12:35 Lunch
  * 13:30 [Practical: Linear Regression](./section-1.05)
  * 14:10 [Lecture: kNN Classification](./section-1.06)
+ * 15:00 Break
+ * 15:15 [Practical: kNN Classification](./section-1.07) <!-- TODO: Check this practical before uploading -->
+ * 15:55 [Lecture: KMeans Clustering](./section-1.08)
 
 ### Day 2
 
