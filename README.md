@@ -35,11 +35,13 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 15:15 Break
  * 15:30 [Lecture: KMeans Clustering](./section-1.08)
  * 16:20 [Practical: KMeans Clustering](./section-1.09) <!-- TODO: Check this practical before uploading -->
+ * 16:35 Close
 
 ### Day 2
 
 
- * 14:00 Welcome and recap
+ * 09:30 Welcome and recap
+ * 09:40 
  * 14:10 [...]
  * 15:00 Break
  * 15:30 [...]
