@@ -50,7 +50,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 13:30 [Practical: A Neural Network with PyTorch]
  * 14:30 Wrap-Up
  * 14:40 Close
- ** The Course Lead will remain available for questions & discussion until 15:3
+   * The Course Lead will remain available for questions & discussion until 15:30
 
 
 ## Course requirements
