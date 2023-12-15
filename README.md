@@ -41,11 +41,17 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 
  * 09:30 Welcome and recap
- * 09:40 
- * 14:10 [...]
- * 15:00 Break
- * 15:30 [...]
- * 16:30 Close
+ * 09:40 [Lecture: Introduction to Neural Networks]
+ * 10:30 [Practical: Simple Neural Network]
+ * 11:00 Break
+ * 11:15 [Practical: Simple Neural Network (Part 2)]
+ * 11:55 [Lecture: More Advanced Neural Networks]
+ * 12:45 Lunch
+ * 13:30 [Practical: A Neural Network with PyTorch]
+ * 14:30 Wrap-Up
+ * 14:40 Close
+ ** The Course Lead will remain available for questions & discussion until 15:3
+
 
 ## Course requirements
 
