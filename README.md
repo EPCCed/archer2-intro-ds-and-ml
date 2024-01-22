@@ -41,8 +41,8 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 
  * 09:30 Welcome and recap
- * 09:40 [Lecture: Introduction to Neural Networks]
- * 10:30 [Practical: Simple Neural Network]
+ * 09:40 [Lecture: Introduction to Neural Networks](./section-2.01)
+ * 10:30 [Practical: Simple Neural Network](./section-2.02)
  * 11:00 Break
  * 11:15 [Practical: Simple Neural Network (Part 2)]
  * 11:55 [Lecture: More Advanced Neural Networks]
