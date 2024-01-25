@@ -38,7 +38,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 15:00 [Practical: kNN Classification](./section-1.07) 
  * 15:15 Break
  * 15:30 [Lecture: KMeans Clustering](./section-1.08)
- * 16:20 [Practical: KMeans Clustering](./section-1.09) <!-- TODO: Check this practical before uploading -->
+ * 16:20 [Practical: KMeans Clustering](./section-1.09) 
  * 16:35 Close
 
 ### Day 2
@@ -61,7 +61,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 All attendees will need their own desktop or laptop.
 
-To connect to ARCHER2 you will need to have an ssh client installed which comes as default for Linux and Mac systems. You will need an ARCHER2 account to run the practicals on ARCHER2. (You may also be able to run the practicals on your own machine if you have already installed the Anaconda python distribution and PyTorch. For those attending the course, we recommend that you use ARCHER2.)
+To connect to ARCHER2 you will need to have an ssh client installed which comes as default for Linux and Mac systems. You will need an ARCHER2 account to run the practicals on ARCHER2. (You may also be able to run the practicals on your own machine if you have already installed the [Anaconda python distribution](https://www.anaconda.com/download) and PyTorch. For those attending the course, we recommend that you use ARCHER2.)
 
 Linux users should open a command-line terminal and use ssh from the command line.
 
