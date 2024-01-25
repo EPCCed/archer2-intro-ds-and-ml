@@ -61,7 +61,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 All attendees will need their own desktop or laptop.
 
-If you are logging on to an external system then you will need to have an ssh client installed which comes as default for Linux and Mac systems.
+To connect to ARCHER2 you will need to have an ssh client installed which comes as default for Linux and Mac systems. You will need an ARCHER2 account to run the practicals on ARCHER2. (You may also be able to run the practicals on your own machine if you have already installed the Anaconda python distribution and PyTorch. For those attending the course, we recommend that you use ARCHER2.)
 
 Linux users should open a command-line terminal and use ssh from the command line.
 
@@ -71,7 +71,7 @@ Windows users should install MobaXterm which provides ssh access, a Unix graphic
 
 ---
 
-This work is licensed under a
+Lecture slides and day 1 practicals are licenced under a 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
