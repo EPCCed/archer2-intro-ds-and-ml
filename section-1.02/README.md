@@ -1,8 +1,8 @@
 # Practical: Introduction to Jupyter Notebooks & Pandas
 
-In this initial practical, your goal is to connect to ARCHER and open a Jupyter Notebook. Once you are able to do this, you should use the notebook to start working through an exercise from Data Carpentry which introduces Pandas.
+In this initial practical, your goal is to connect to ARCHER2 and open a Jupyter Notebook. Once you are able to do this, you should use the notebook to start working through an exercise from Data Carpentry which introduces Pandas.
 
-**Jupyter Notebooks** provide a useful environment for working with Python interactively. They allow you to store your input and output in a single file which facilitates reproducibility and reuse. They can be useful for **exploratory data analysis** including **visualisation** where the goal is to quickly iterate 
+**Jupyter Notebooks** provide a useful environment for working with Python interactively. They allow you to store your input and output in a single file which facilitates reproducibility and reuse. They can be useful for **exploratory data analysis** including **visualisation** where the goal is to quickly iterate. 
 
 ## Step 1: Open a Jupyter notebook on ARCHER
 
