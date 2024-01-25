@@ -4,7 +4,9 @@
 
 # Introduction to Data Science & Machine Learning (January 2024)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] Lecture Slides & Day 1 Practicals. Day 2 Practicals (c) University of Edinburgh, All Rights Reserved (At the present time, permission is being sought to release these under CC).
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] Lecture Slides & Day 1 Practicals.
+
+Day 2 Practicals (c) 2022-2024, University of Edinburgh, All Rights Reserved. (At the present time, permission is being sought to release these under CC).
 
 
 This course will introduce Data Science and Machine Learning and discuss how they are related. After a short introduction to Data Science in more general terms, the course will focus more specifically on Machine Learning.
