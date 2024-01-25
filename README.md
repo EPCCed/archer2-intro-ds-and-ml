@@ -9,6 +9,7 @@ The majority of the course materials are made available under a CC-BY-SA licence
 
 Please note that slides contain some images produced by others. Use of these images in the context of this course is considered to be fair use. Please seek permission of the original copyright holders (via the references provided) before using images in other contexts.
 
+## This Course
 This course will introduce Data Science and Machine Learning and discuss how they are related. After a short introduction to Data Science in more general terms, the course will focus more specifically on Machine Learning.
 
 We will introduce the ideas of Unsupervised and Supervised Learning, starting with some simple examples, building things up so that by the end of the course you should have some understanding of how Neural Networks work under the hood.
