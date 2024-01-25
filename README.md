@@ -65,7 +65,7 @@ To connect to ARCHER2 you will need to have an ssh client installed which comes 
 
 Linux users should open a command-line terminal and use ssh from the command line.
 
-Mac can open the Mac termimal application and use ssh from the command line. However, to display graphics from Cirrus you will also need to install Xquartz. Xquartz provides its own terminal called “Xterm”: if you have problems displaying graphics when using the Mac terminal, try logging in using ssh from within this Xterm.
+Mac can open the Mac termimal application and use ssh from the command line. 
 
 Windows users should install MobaXterm which provides ssh access, a Unix graphics client and a drag-and-drop file browser. Alternatively, if you're comfortable using Windows PowerShell, you can connect with a command-line SSH client from there.
 
