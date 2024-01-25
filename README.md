@@ -5,7 +5,7 @@
 # Introduction to Data Science & Machine Learning (January 2024)
 
 ## Licence
-The majority of the course materials are made available under a CC-BY-SA licence, including all of the slides and the Day 1 practicals. Day 2 Practicals are &copy; 2022-2024, University of Edinburgh, All Rights Reserved. (At the present time, permission is being sought to release these under CC).
+The majority of these course materials are made available under a CC-BY-SA licence, including all of the slides and the Day 1 practicals. Day 2 Practicals are &copy; 2022-2024, University of Edinburgh, All Rights Reserved. (At the present time, permission is being sought to release these under CC).
 
 Please note that slides contain some images produced by others. Use of these images in the context of this course is considered to be fair use. Please seek permission of the original copyright holders (via the references provided) before using images in other contexts.
 
