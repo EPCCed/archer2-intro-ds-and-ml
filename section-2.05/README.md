@@ -9,3 +9,4 @@ Before working through the Jupyter notebook in this directory, please issue the 
 ```bash
 python -m pip install torch torchvision
 ```
+In principle it's possible to use the PyTorch module that's available on ARCHER2 -- see the ARCHER2 docs for more information -- but for the purposes of this course I recommend that you install your own instance.
