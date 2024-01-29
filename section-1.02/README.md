@@ -12,3 +12,12 @@ You should follow the instructions in the [Using Jupyterlab section of the Arche
 
 Work through [Episode 3](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html) and [Episode 4](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset.html) from the Data Carpentry course, "[Data Analysis and Visualization in Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)".
 
+For these introductory exercises, we recommend that you start from a blank Jupyter notebook and type/paste commands from the tutorial pages above.
+
+## Notebooks for the rest of this course
+
+The easiest way to get the notebooks for practicals for the rest of this course is to clone this repository directly on ARCHER2 with the command:
+
+```bash
+git clone https://github.com/EPCCed/archer2-intro-ds-and-ml.git
+```
