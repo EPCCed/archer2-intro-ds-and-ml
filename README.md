@@ -16,7 +16,7 @@ We will introduce the ideas of Unsupervised and Supervised Learning, starting wi
 
 The primary goal of the course is to show you the kind of things that can be done with machine learning and give an outline of how these things are implemented. In practice, as a user, you will almost certainly end up using libraries and frameworks which implement the details for you, and we’ll give you some examples of these libraries and frameworks.
 
-We won’t be able to make you machine learning experts in the space of two days, but hopefully after the end of the course, you’ll understand the important ideas, and have a base from which to explore those areas of Machine Learning that are relevant to your research domains. We also won’t get to the point where we can cover Machine Learning at scale on systems like ARCHER. That is for another day…
+We won’t be able to make you machine learning experts in the space of two days, but hopefully after the end of the course, you’ll understand the important ideas, and have a base from which to explore those areas of Machine Learning that are relevant to your research domains. We also won’t get to the point where we can cover Machine Learning at scale on systems like ARCHER2. That is for another day…
 
 The practical exercises on the course will use Python, and we’ll expect you to be comfortable with the fundamentals of programming in Python if you want to do the practical exercises. 
 
