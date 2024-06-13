@@ -1,10 +1,12 @@
 #!/bin/bash
 
 
+# Please note, module load commands are specific to the ARCHER2 system.
 module -q load PrgEnv-gnu
 module -q load cray-python
 
-PYENV_ROOT=${HOME/home/work}/pyenv
+
+PYENV_ROOT=${HOME/home/work}/../shared/pyenv
 
 python -m venv --system-site-packages ${PYENV_ROOT}
 
