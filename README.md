@@ -39,22 +39,19 @@ The practical exercises on the course will use Python, and we’ll expect you to
  * 15:15 Break
  * 15:30 [Lecture: KMeans Clustering](./section-1.08)
  * 16:20 [Practical: KMeans Clustering](./section-1.09) 
- * 16:35 Close
+ * 16:30 Close
 
 ### Day 2
-
 
  * 09:30 Welcome and recap
  * 09:40 [Lecture: Introduction to Neural Networks](./section-2.01)
  * 10:30 [Practical: Simple Neural Network](./section-2.02)
  * 11:00 Break
  * 11:15 [Practical: Simple Neural Network (Part 2)](./section-2.03)
- * 11:55 [Lecture: More Advanced Neural Networks](./section-2.04)
- * 12:45 Lunch
- * 13:30 [Practical: A Neural Network with PyTorch](./section-2.05)
- * 14:30 Wrap-Up
- * 14:40 Close
-   * The Course Lead will remain available for questions & discussion until 15:30
+ * 11:50 Lunch
+ * 13:15 [Practical: A Neural Network with PyTorch](./section-2.05)
+ * 14:00 Wrap-Up and Questions
+ * 14:30 Close
 
 
 ## Course requirements
