@@ -19,7 +19,7 @@ fi
 
 
 echo -e "\n\nOnce JupyterLab server has started, remember to create SSH tunnel, e.g.,"
-echo -e "ssh ${USER}@login.archer2.ac.uk -L8888:${NODEID}:8888\n\n"
+echo -e "ssh ${USER}@login.archer2.ac.uk -L<port_number>:${NODEID}:<port_number>\n\n"
 
 
 export JUPYTER_RUNTIME_DIR=$(pwd)
