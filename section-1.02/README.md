@@ -39,8 +39,8 @@ ssh <username>@login.archer2.ac.uk -L<port_number>:<node_id>:<port_number>
 ```
 
 A version of this tunnelling command is printed at the top of the JupyterLab server output.
-The `username` and `node_id` fields are populated and the `port_number` is assumed to be `8888`.
-The true port number should be in the JupyterLab server output.
+The `username` and `node_id` fields are populated, but the `port_number` label must be replaced by the actual port number,
+which can be found in the JupyterLab server output.
 
 You're now ready to run JupyterLab notebooks on ARCHER2 from your browser using the `http://127.0.0.1` URL mentioned above.
 Navigate to the `archer2-intro-ds-and-ml` folder (from within the JupyterLab session presented within your browser) where
