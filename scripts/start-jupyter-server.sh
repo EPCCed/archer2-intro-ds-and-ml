@@ -19,8 +19,9 @@ fi
 
 
 echo -e "\n\nOnce JupyterLab server has started, remember to create SSH tunnel, e.g.,"
-echo -e "ssh ${USER}@login.archer2.ac.uk -L<port_number>:${NODEID}:<port_number>\n\n"
-
+echo -e "ssh ${USER}@login.archer2.ac.uk -L<port_number>:${NODEID}:<port_number>\n"
+echo -e "Port number can be found in following JupyterLab server output,"
+echo -e "immediately after \"http://${NODEID}:\" or \"http://127.0.0.1:\".\n\n"
 
 export JUPYTER_RUNTIME_DIR=$(pwd)
 jupyter lab --ip=0.0.0.0 --no-browser
