@@ -2,7 +2,7 @@
 
 <br /><br /><br /><br />
 
-# Introduction to Data Science & Machine Learning (June 2024)
+# Introduction to Data Science & Machine Learning (August 2025)
 
 ## Licence
 The majority of these course materials are made available under a CC-BY-SA licence, including all of the slides and the Day 1 practicals. Day 2 Practicals are &copy; 2022-2024, University of Edinburgh, All Rights Reserved. (At the present time, permission is being sought to release these under CC).
@@ -26,32 +26,33 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 ### Day 1
 
- * 09:30 Welcome & Introduction
- * 09:40 [Lecture: Introduction to Data Science](./section-1.01)
- * 10:20 [Practical: Intro to Jupyter Notebooks & Pandas](./section-1.02)
- * 11:00 Break
- * 11:15 [Lecture: Introduction to Machine Learning](./section-1.03)
- * 11:45 [Lecture: Linear Regression](./section-1.04)
- * 12:35 Lunch
- * 13:30 [Practical: Linear Regression](./section-1.05)
- * 14:10 [Lecture: kNN Classification](./section-1.06)
+ * 10:00 Welcome & Introduction
+ * 10:10 [Lecture: Introduction to Data Science](./section-1.01)
+ * 10:50 [Practical: Intro to Jupyter Notebooks & Pandas](./section-1.02)
+ * 11:30 Break
+ * 11:45 [Lecture: Introduction to Machine Learning](./section-1.03)
+ * 12:15 [Lecture: Linear Regression](./section-1.04)
+ * 13:00 Lunch
+ * 14:00 [Practical: Linear Regression](./section-1.05)
+ * 14:30 [Lecture: kNN Classification](./section-1.06)
  * 15:00 [Practical: kNN Classification](./section-1.07) 
  * 15:15 Break
  * 15:30 [Lecture: KMeans Clustering](./section-1.08)
- * 16:20 [Practical: KMeans Clustering](./section-1.09) 
- * 16:30 Close
+ * 16:00 Close
 
 ### Day 2
 
- * 09:30 Welcome and recap
- * 09:40 [Lecture: Introduction to Neural Networks](./section-2.01)
- * 10:30 [Practical: Simple Neural Network](./section-2.02)
- * 11:00 Break
- * 11:15 [Practical: Simple Neural Network (Part 2)](./section-2.03)
- * 11:50 Lunch
- * 13:15 [Practical: A Neural Network with PyTorch](./section-2.05)
- * 14:00 Wrap-Up and Questions
- * 14:30 Close
+ * 10:00 Welcome and recap
+ * 10:10 Practical: KMeans Clustering](./section-1.09) 
+ * 10:30 [Lecture: Introduction to Neural Networks](./section-2.01)
+ * 11:00 [Practical: Simple Neural Network](./section-2.02)
+ * 11:30 Break
+ * 12:00 [Lecture: More Neural Networks](./section-2.04)
+ * 12:30 [Practical: Simple Neural Network (Part 2)](./section-2.03)
+ * 13:00 Lunch
+ * 14:00 [Practical: A Neural Network with PyTorch](./section-2.05)
+ * 15:00 Wrap-Up and Questions
+ * 16:00 Close
 
 
 ## Course requirements
