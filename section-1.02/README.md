@@ -22,7 +22,7 @@ to run Jupyter notebooks from an ARCHER2 compute node: the `/home` file system i
 
 The next two commands copy two scripts from a shared folder to your user folder on `/work`.
 
-The `start-jupyter-server.sh` script activates a Python environment located at `/work/ta160/ta160/shared/pyenv`
+The `start-jupyter-server.sh` script activates a Python environment located at `/work/ta209/ta209/shared/pyenv`
 in order to start the JupyterLab server. The `start-jupyter-server.sh` script can be run either from a login node
 or from a compute node accessed via an interactive session, see `run-interactive.sh`.
 
