@@ -52,7 +52,7 @@ When you have finished working with JupyterLab notebooks, you should close the b
 then, from the terminal session where you launched JupyterLab, type `Ctrl+C` to shutdown.
 
 If you're interested in how the Python environment for this training course was setup, you can find the instructions
-at `/work/ta160/ta160/shared/install-pyenv.sh`. It should be straightforward to adapt this for a system hosted at
+at `/work/ta209/ta209/shared/install-pyenv.sh`. It should be straightforward to adapt this for a system hosted at
 your home institution if you wish.
 
 
