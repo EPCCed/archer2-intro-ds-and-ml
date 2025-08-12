@@ -26,7 +26,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 
 ### Day 1
 
- * 10:00 Welcome & Introduction
+ * 10:00 [Welcome & Introduction](./section-1.00)
  * 10:10 [Lecture: Introduction to Data Science](./section-1.01)
  * 10:50 [Practical: Intro to Jupyter Notebooks & Pandas](./section-1.02)
  * 11:30 Break
@@ -43,7 +43,7 @@ The practical exercises on the course will use Python, and we’ll expect you to
 ### Day 2
 
  * 10:00 Welcome and recap
- * 10:10 Practical: KMeans Clustering](./section-1.09) 
+ * 10:10 [Practical: KMeans Clustering](./section-1.09) 
  * 10:30 [Lecture: Introduction to Neural Networks](./section-2.01)
  * 11:00 [Practical: Simple Neural Network](./section-2.02)
  * 11:30 Break
