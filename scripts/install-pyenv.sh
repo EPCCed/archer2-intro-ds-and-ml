@@ -16,6 +16,8 @@ source ${PYENV_ROOT}/bin/activate
 python -m pip install --upgrade pip
 python -m pip install --upgrade scipy
 
+python -m pip install --upgrade pandas
+
 python -m pip install matplotlib
 python -m pip install seaborn
 
